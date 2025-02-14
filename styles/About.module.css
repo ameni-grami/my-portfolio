@@ -1,0 +1,22 @@
+
+  .aboutContainer {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-top: 3%;
+}
+
+.paragraph {
+  width: 700px;
+  word-break: break-word;
+  display: flex;
+  align-items: center;
+  margin: auto;
+}
+
+.aboutWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
