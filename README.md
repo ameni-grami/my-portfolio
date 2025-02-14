@@ -1,49 +1,45 @@
-# vscode-portfolio
-[![Open is Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/itsnitinr/vscode-portfolio)
+# Hi, I'm Ameni Grami 👋
 
-A Visual Studio Code themed developer portfolio website built with Next.js and deployed on Vercel.
+## Frontend Engineer 💻
 
-![vscode-portfolio banner](https://imgur.com/JXJ9mpO.gif)
+Welcome to my GitHub profile! I'm a passionate Frontend Engineer with expertise in building modern, responsive, and user-friendly web applications. I love turning ideas into reality through clean, efficient, and scalable code.
 
-## Features Roadmap
+### 🛠️ Technologies & Tools
 
-- [ ] Themes and customizations
-  - [x] GitHub Dark (default)
-  - [ ] One Dark Pro
-  - [x] Dracula
-  - [x] Ayu
-  - [x] Nord
-- [ ] Interactive custom terminal
+- **Frontend Development**: React.js, Next.js, TypeScript, JavaScript, HTML5, CSS3
+- **Mobile Development**: React Native
+- **Tools**: Git, GitHub, VS Code, Figma, Webpack, npm/yarn
+- **Other Skills**: REST APIs, GraphQL, Responsive Design, UI/UX Principles
 
-For other features and themes suggestions, please open an issue.
+### 🌟 Featured Projects
 
-## Environment Variables
+- **[Messagera](#)**: A messaging platform that helps businesses communicate timely and effectively with their customers..
+- **[Delice](#)**: Delice Backoffice uses Dixie DB for offline milk stock management, allowing continued operation without a network. When a connection is available, it automatically synchronizes data from Dixie DB to the online database, ensuring consistency across systems..
+- **[RentalSaga](#)**:The backoffice system manages the creation of car rental agencies, allowing each agency to handle its fleet of vehicles for rent. It provides tools for tracking available cars, managing reservations, and ensuring smooth rental operations, streamlining the overall management process for agencies.
+- **[TakiAcademyAdmin](#)**:The backoffice system manages an educational website, overseeing content, user enrollment, and course administration to ensure seamless learning experiences.
+- **[WeQuizz](#)**:Innovative Teaching, Seamless Quizzes .We Quizz makes it easy for educators to craft quizzes that captivate students and promote deep understanding.
+- **[imtiyazacademy](#)**:Imtiaz is a Mauritanian platform offering remote national curricula with interactive exercises, regular tests, and experienced teachers, providing flexible and secure learning anytime, anywhere.
+- **[ostedhy](#)**:Osthedy is a Tunisian platform offering remote national curricula with interactive exercises, tests, and experienced teachers, enabling flexible, secure learning anytime, anywhere.
 
-For fetching your articles from dev.to, create an `.env.local` file inside the project directory. Check the `.env.local.example` file for more information.
+### 📂 Repository Highlights
 
-## Running Development Server
+- **[about.html](#)**: Learn more about me and my journey.
+- **[contact.css](#)**: Styling for my contact page.
+- **[projects.js](#)**: JavaScript logic for my projects section.
+- **[github.md](#)**: My GitHub workflow and best practices.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+### 📫 Let's Connect!
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+I'm always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out to me:
 
-All VSCode related components can be found in the `components` folder. To change the content of the portfolio, check out the `pages` folder. To add or remove pages, modify `components/Sidebar.jsx` and `components/Tabsbar.jsx`.
+- **Email**: [amenigrami489@gmail.com](mailto:amenigrami489@gmail.com)
+- **LinkedIn**: [Ameni Grami](https://www.linkedin.com/in/your-profile)
+- **Portfolio**: [View Work](#)
 
-## Next.js Resources
+### 🖼️ Profile Image
 
-To learn more about Next.js, take a look at the following resources:
+![Ameni Grami](image.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/)
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+⭐️ From [Ameni Grami](https://github.com/Ameni102Grami)
