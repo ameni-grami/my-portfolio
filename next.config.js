@@ -13,6 +13,7 @@ module.exports = {
       "imtiyazacademy.com",
       "messaggera.com",
       "ostedhy.com",
+      
     ],
   },
 
