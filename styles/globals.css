@@ -86,3 +86,7 @@
 .css-modules:hover {
   background: rgba(21, 114, 182, 0.25);
 }
+
+a {
+  all: unset !important;
+}
