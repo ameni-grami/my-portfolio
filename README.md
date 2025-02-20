@@ -34,7 +34,7 @@ I'm always open to collaborating on exciting projects or discussing new opportun
 
 - **Email**: [amenigrami489@gmail.com](mailto:amenigrami489@gmail.com)
 - **LinkedIn**: [Ameni Grami](https://www.linkedin.com/in/your-profile)
-- **Portfolio**: [View Work](https://www.linkedin.com/in/ameni-grami/)
+- **Portfolio**: [View Work](https://ameni-grami.netlify.app/)
 
 ### 🖼️ Profile Image
 
