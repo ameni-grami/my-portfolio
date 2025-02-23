@@ -7,9 +7,19 @@ const contactItems = [
     href: "mailto:amenigrami489@gmail.com",
   },
   {
-    social: "github",
-    link: "https://github.com/Ameni102Grami",
-    href: "https://github.com/Ameni102Grami",
+    social: "Personal github",
+    link: "https://github.com/ameni-grami",
+    href: "https://github.com/ameni-grami",
+  },
+  {
+    social: "Takiacademy Gitlab",
+    link: "https://gitlab.com/Ameni45Grami",
+    href: "https://gitlab.com/Ameni45Grami",
+  },
+  {
+    social: "Softy Gitlab",
+    link: "https://gitlab.softylines.com/ameni.grami",
+    href: "https://gitlab.softylines.com/ameni.grami",
   },
   {
     social: "linkedin",
@@ -36,7 +46,12 @@ const ContactCode = () => {
       {contactItems.slice(8, contactItems.length).map((item, index) => (
         <p className={styles.line} key={index}>
           &nbsp;&nbsp;{item.social}:{" "}
-          <a href={item.href} target="_blank" rel="noopener">
+          <a
+            href={item.href}
+            target="_blank"
+            rel="noopener"
+            style={{ cursor: "pointer" }}
+          >
             {item.link}
           </a>
           ;

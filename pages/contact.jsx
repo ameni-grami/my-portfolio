@@ -24,7 +24,6 @@ const ContactPage = () => {
       )
       .then(
         () => {
-        
           setName("");
           setEmail("");
           setSubject("");
