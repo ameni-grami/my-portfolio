@@ -2,7 +2,7 @@
   background: var(--explorer-bg);
   width: 18vw;
   color: rgb(225, 228, 232);
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   border-right: 1px solid var(--explorer-border);
 }
 
@@ -14,7 +14,10 @@
   letter-spacing: 1px;
   margin-bottom: 0.75rem;
 }
-
+.link {
+  text-decoration: none;
+  color: inherit;
+}
 .heading {
   text-transform: uppercase;
   font-weight: bold;
@@ -46,8 +49,8 @@
 
 .file p {
   margin-left: 5px;
+  text-decoration: none !important;
 }
-
 .file:hover {
   background: var(--explorer-hover-bg);
 }

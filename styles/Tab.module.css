@@ -9,9 +9,12 @@
   font-size: 0.9rem;
   cursor: pointer;
 }
-
+.link{
+  text-decoration: none;
+}
 .tab p {
   margin-left: 5px;
+  text-decoration: none;
 }
 
 .active {
