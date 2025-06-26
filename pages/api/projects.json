@@ -17,10 +17,10 @@
   {
     "id": 3,
     "name": "RentalSaga",
-    "image": "https://rentcar.softylines.com/1168625d70e639133a35021001e8e9e1.png",
+    "image": "https://app.rentalsaga.com/1168625d70e639133a35021001e8e9e1.png",
     "description": "The backoffice system manages the creation of car rental agencies, allowing each agency to handle its fleet of vehicles for rent. It provides tools for tracking available cars, managing reservations, and ensuring smooth rental operations, streamlining the overall management process for agencies.",
     "tags": ["reactTs", "eslint", "redux", "material-ui"],
-    "demo": "https://rentcar.softylines.com/"
+    "demo": "https://app.rentalsaga.com/"
   },
   {
     "id": 4,
